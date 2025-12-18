@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Lauren 👋
 
-<!--
-**laurensent/laurensent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer with a focus on Java ecosystem.  
+Interested in Go, Python, C++, and Rust. Building productivity tools and automation scripts.
 
-Here are some ideas to get you started:
+#### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+#### GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=laurensent&show_icons=true&theme=transparent&hide_border=true&hide_title=true&hide=issues">
+  <img src="https://github-readme-stats.vercel.app/api?username=laurensent&show_icons=true&theme=default&hide_border=true&hide_title=true&hide=issues">
+</picture>
