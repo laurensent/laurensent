@@ -13,9 +13,3 @@ Interested in Go, Python, C++, and Rust. Building productivity tools and automat
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-#### GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=laurensent&show_icons=true&theme=transparent&hide_border=true&hide_title=true&hide=issues">
-  <img src="https://github-readme-stats.vercel.app/api?username=laurensent&show_icons=true&theme=default&hide_border=true&hide_title=true&hide=issues">
-</picture>
