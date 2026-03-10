@@ -34,4 +34,4 @@ Backend engineer with a CS and SE background. Building macOS productivity tools 
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=laurensent&show_icons=true&theme=default&hide_border=true&custom_title=Lauren's%20GitHub%20Stats" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=laurensent&show_icons=true&theme=default&hide_border=true&include_all_commits=true&custom_title=Lauren's%20GitHub%20Stats" alt="GitHub Stats" />
