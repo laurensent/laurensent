@@ -31,7 +31,3 @@ Backend engineer with a CS and SE background. Building macOS productivity tools 
 | [alfred-workflows](https://github.com/laurensent/alfred-workflows) | Custom Alfred workflows for productivity |
 | [ankimd](https://github.com/laurensent/ankimd) | Markdown & Mermaid support for Anki flashcards |
 | [ankiboard](https://github.com/laurensent/ankiboard) | Beautiful Anki statistics dashboard |
-
-### GitHub Stats
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=laurensent&show_icons=true&theme=default&hide_border=true&include_all_commits=true&hide_rank=true&custom_title=Lauren's%20GitHub%20Stats" alt="GitHub Stats" />
